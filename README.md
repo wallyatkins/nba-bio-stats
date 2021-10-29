@@ -1,9 +1,12 @@
-#NBA Bio Stats
+# NBA Bio Stats
 
-##Download Data
-./grabStat.sh
+## Download Data
+```
+./grabStats.sh
+```
 
-##Create CSV
+## Create CSV
+```
 npm install
 npm start
-
+```
