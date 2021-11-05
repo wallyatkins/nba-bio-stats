@@ -1,6 +1,7 @@
 {
   "name": "nba-player-bio-stats",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "csv-writer": "^1.6.0"
+    "csv-writer": "^1.6.0",
+    "node-fetch": "^3.0.0",
+    "node-html-parser": "^5.1.0"
   }
 }
